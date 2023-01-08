@@ -1,4 +1,8 @@
 ![download](https://user-images.githubusercontent.com/52428892/211189605-299b54d7-341a-4529-9a0e-e535a189d185.png)
+
+
+
+
 1Put cls and sep on the senten column, separating each sentence from another
 
 2 Make a toknizer for each sentence, dividing it into better words than split
